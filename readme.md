@@ -1,3 +1,5 @@
+# PLEASE NOTE: THIS IS A CLONE FROM https://github.com/RustAudio/vst3-sys
+
 # vst3-sys
 
 A port of the VST3 API in pure Rust. 
